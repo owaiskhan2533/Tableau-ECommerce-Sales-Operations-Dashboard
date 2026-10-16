@@ -1,4 +1,4 @@
-# Global E-Commerce Executive & Operations Dashboard 🛒📊
+# Global E-Commerce Executive & Operations Dashboard
 
 ## Executive Summary
 This **Tableau Executive & Operations Dashboard** provides a holistic view of an e-commerce business's revenue performance, profitability, regional expansion, and fulfillment logistics. It empowers stakeholders to monitor executive-level KPIs, evaluate high-performing product categories, analyze customer payment behaviors, and optimize shipping mode efficiencies[cite: 11].
@@ -38,9 +38,9 @@ This **Tableau Executive & Operations Dashboard** provides a holistic view of an
 ## Dashboard Preview
 
 ![Global E-Commerce Dashboard]
-<a href=""></a>
+<a href="https://github.com/owaiskhan2533/Tableau-ECommerce-Sales-Operations-Dashboard/blob/main/Tableau%20project.png"></a>
 
----
+
 
 ## Key Business Insights
 * **Revenue Driver:** **Electronics** is by far the primary revenue generator, contributing over **54% of overall sales ($360.7K)**[cite: 11].
