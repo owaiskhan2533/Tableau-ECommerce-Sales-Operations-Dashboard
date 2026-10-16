@@ -36,7 +36,6 @@ This **Tableau Executive & Operations Dashboard** provides a holistic view of an
 ---
 
 ## Dashboard Preview
-
 ![Global E-Commerce Dashboard]
 <a href="https://github.com/owaiskhan2533/Tableau-ECommerce-Sales-Operations-Dashboard/blob/main/Tableau%20project.png"></a>
 
